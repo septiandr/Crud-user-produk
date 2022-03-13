@@ -1,0 +1,19 @@
+.home-con{
+    display: flex;
+    flex-direction: column;
+    justify-content: center !important;
+    text-align: center;
+}
+h1{
+    margin-bottom: 30px !important;
+    margin-top: 50px !important;
+    color:aqua;
+}
+#user-table{
+    width: 1200px;
+    justify-content: center;
+    margin: 50px 150px 50px 150px !important;
+}
+.btn-table .btn{
+    margin-left: 20px;
+}
